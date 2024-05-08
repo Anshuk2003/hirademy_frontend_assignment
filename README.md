@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+BookVerse
+Welcome to BookVerse, a platform for exploring and discovering information about books!
 
-## Getting Started
+#About
+BookVerse is a web application designed to help users discover, explore, and engage with a wide range of books across different genres and topics. Whether you're looking for new reads, author information, or community discussions about books, BookVerse provides a comprehensive platform for all things literary.
 
-First, run the development server:
+#Getting Started
+Follow these instructions to get a copy of the BookVerse application up and running on your local machine.
 
-```bash
+#Prerequisites
+To run this project, you'll need:
+
+Node.js and npm (or yarn) installed on your machine
+Git (optional, for cloning the repository)
+
+#Installation
+Clone the repository (if you haven't already):
+bash
+git clone https://github.com/Anshuk2003/hirademy_frontend_assignment.git
+
+
+#Navigate into the project directory:
+bash
+cd bookverse
+
+#Install dependencies using npm:
+bash
+npm install
+
+#Running the Application
+To start the BookVerse application locally:
+
+bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#The application will be accessible at http://localhost:3000 in your web browser.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+#Dependencies
+Key dependencies used in the BookVerse project:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+React.js
+Next.js
+Axios (for HTTP requests)
+Tailwind CSS (for styling)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#For questions or feedback regarding BookVerse, please contact:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Anshuk Kalbande
+Email: anshukvkalbande114@gmail.com
