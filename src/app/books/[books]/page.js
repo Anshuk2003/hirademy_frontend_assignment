@@ -30,7 +30,7 @@ function BookInfo() {
     if (id) {
       fetchBookInfo();
     }
-  }, [id])
+  }, [id,fetchBookInfo])
   return (
     <div>
       {isLoading ? (
